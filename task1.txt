@@ -1,0 +1,25 @@
+What is the window and document
+
+
+Window: 
+?	Window is the global object in the browser that represent browser window in the page.
+?	Window object have all properties on the window are available directly in script.
+?	Console.log(window);
+?	The window is the first things get loaded into the browser.
+?	Windows has the document,properties like length,innerwidth,ourtwidth
+ 
+
+
+
+Document:
+?	The document inside the window.
+?	Document can access any html element.
+?	Html head and body stored in document.
+?	Document is the property of window.
+?	The document actually get load the window object.
+?	The document follow the tree structure so called as DOM(document object model tree)
+?	Console.log(window.document.getElementByTagname());
+?	Dom can access get element,change element,exit ect
+
+
+ 
